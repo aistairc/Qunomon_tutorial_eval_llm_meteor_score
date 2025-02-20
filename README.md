@@ -1,1 +1,2 @@
 # Qunomon_tutorial_eval_llm_meteor_score
+本シナリオでは、HuggingFaceのT5-smallモデルを用いて英語からフランス語への翻訳を実行し、翻訳品質をMETEORスコアで評価します。ファインチューニングでモデル品質向上、LLMモデルを使うベストプラクティスを見つける。Qunomon（機械学習品質テストベッド）の使用方法や効果を理解してもらうことを目指します。
